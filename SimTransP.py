@@ -2,8 +2,6 @@ import numpy as np
 from numpy import sqrt, arcsin, sin, cos, pi, matlib
 from math import ceil
 
-from scipy.fft import fft, ifft
-
 from PyAstronomy.pyTiming.pyPeriod import Gls
 
 import matplotlib.pyplot as plt
