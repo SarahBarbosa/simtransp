@@ -1,0 +1,5 @@
+numpy==1.20.3
+PyAstronomy==0.17.1
+matplotlib==3.4.3
+seaborn==0.11.2
+astropy==4.3.1
