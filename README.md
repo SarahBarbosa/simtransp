@@ -21,3 +21,5 @@ Um exemplo de como utilizar o `SimTransP` pode ser encontrado no notebook [Exemp
 ## Conclusão
 
 A classe `SimTransP` oferece uma maneira conveniente e simples de gerar curvas de luz com diversos recursos e realizar caracterizações. Ela permite adicionar pontos, ruídos e trânsitos, além de analisar o periodograma e avaliar o erro relativo do período observado. Sinta-se à vontade para explorar o SimTransP e adicionar novos recursos conforme necessário.
+
+> Status do Projeto: Concluido :heavy_check_mark:
