@@ -12,7 +12,7 @@ Para utilizar o `SimTransP`, é necessário ter as seguintes dependências insta
 - seaborn: Biblioteca para melhoria estética.
 - astropy: Biblioteca para cálculos astrofísicos e manipulação de dados.
 
-Certifique-se de que essas dependências estão instaladas antes de utilizar o SimTransP (ou use `pip install -r requisitos.txt`).
+Certifique-se de que essas dependências estão instaladas antes de utilizar o SimTransP (ou use `pip install -r requirements.txt`).
 
 ## Uso
 
