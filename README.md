@@ -12,7 +12,7 @@ pip install -e .
 
 ## Uso
 
-Um exemplo de como utilizar o `SimTransP` pode ser encontrado no notebook [Exemplo.ipynb](https://github.com/SarahBarbosa/SimTransP/blob/main/Exemplo_tr%C3%A2nsito_planet%C3%A1rio.ipynb). Neste exemplo, são demonstrados os passos para gerar uma curva de luz simulada, adicionar ruído e manchas estelares, e realizar análises sobre a curva gerada.
+Um exemplo de como utilizar o `SimTransP` pode ser encontrado no notebook [Exemplo.ipynb](https://github.com/SarahBarbosa/simtransp/blob/main/docs/Exemplo.ipynb). Neste exemplo, são demonstrados os passos para gerar uma curva de luz simulada, adicionar ruído e manchas estelares, e realizar análises sobre a curva gerada.
 
 **Observação:** Esta classe não deve ser usada para fins científicos, sendo considerada apenas para propósitos educacionais na construção de curvas de luz simuladas.
 
